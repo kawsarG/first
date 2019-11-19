@@ -1,2 +1,2 @@
-# first
-this a simple web
+# first ever Git use
+
